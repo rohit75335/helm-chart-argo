@@ -21,7 +21,7 @@ spec:
     #         paths: ["/prometheus"]
     #   version: v3
   destination:
-    namespace: demo-app
+    namespace: scaling-demo
     server: https://kubernetes.default.svc
   syncPolicy:
     automated:
