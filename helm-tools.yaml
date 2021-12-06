@@ -9,7 +9,7 @@ spec:
   project: helm-stack
   source:
     repoURL: https://github.com/rohit75335/helm-chart-argo.git
-    targetRevision: HEAD
+    targetRevision: main
     path: helm-charts
   destination:
     server: https://kubernetes.default.svc
