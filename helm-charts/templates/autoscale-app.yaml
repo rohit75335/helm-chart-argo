@@ -9,7 +9,7 @@ spec:
   project: helm-stack
   source:
     path: kubernetes
-    repoURL: https://github.com/ThorstenHans/aks-cluster-scaling-demo
+    repoURL: https://github.com/rohit75335/demoapp.git
     targetRevision: HEAD
     # helm:
     #   values: |
